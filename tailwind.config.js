@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontSize: {
-        banner_title: "36px",
+        banner_title: 36,
       },
       colors: {
         gogoro_black: {

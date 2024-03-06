@@ -25,7 +25,8 @@
       "@icon/*": ["./public/icon/*"],
       "@components/*": ["./src/components/*"],
       "@pages/*": ["./src/pages/*"],
-      "@contents/*": ["./src/contents/*"]
+      "@contents/*": ["./src/contents/*"],
+      "@utils/*": ["./src/utils/*"]
     }
   },
   "include": ["src"],

@@ -18,6 +18,7 @@ export default defineConfig({
       "@components": resolve("src/components"),
       "@pages": resolve("src/pages"),
       "@contents": resolve("src/contents"),
+      "@utils": resolve("src/utils"),
     }
   }
 })
