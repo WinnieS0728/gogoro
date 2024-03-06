@@ -1,5 +1,8 @@
 import banner1_img from '@img/banner/1.jpg'
 import banner3_img from '@img/banner/3.jpeg'
+import banner4_img from '@img/banner/4.jpeg'
+import banner6_img from '@img/banner/6.jpeg'
+import banner7_img from '@img/banner/7.jpeg'
 
 const baseUrl = "https://www.gogoro.com"
 
@@ -41,7 +44,7 @@ export const homepage_content: homeBanner_content[] = [
       label: "了解更多",
       href: `https://www.gogoro.com/tw/rewards/`
     },
-    bgImg: banner3_img
+    bgImg: banner4_img
   }, {
     sectionId: 5,
     title: '13,442+ GoStation® 持續增建中*',
@@ -50,7 +53,7 @@ export const homepage_content: homeBanner_content[] = [
       label: "查看 GoStation 地圖",
       href: `https://www.gogoro.com/tw/rewards/`
     },
-    bgImg: banner3_img
+    bgImg: banner6_img
   }, {
     sectionId: 6,
     title: '即刻刷題',
@@ -59,6 +62,6 @@ export const homepage_content: homeBanner_content[] = [
       label: "查看 GoStation 地圖",
       href: `https://www.gogoro.com/tw/event/license-practice/`
     },
-    bgImg: banner3_img
+    bgImg: banner7_img
   },
 ]
